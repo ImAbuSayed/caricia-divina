@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-divina/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Caricia divina](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-divina/) |
+| **Get License** | [Get License For Caricia divina](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-divina/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bebé, la noche está fría pero tú me quemas
+> Una mirada tuya y me rompes los esquemas
+> Ven, dame una noche de alta tensión
+> Tu cuerpo es la ola y yo pierdo el control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
